@@ -160,10 +160,10 @@ while attemps < 12345677901:
 def meyexudi():
   os.system('clear')
   print(logo)
-  uuid = "KPL("+str(os.getuid())+"(KILLER)"+str(os.getuid())+")AXN"
+  uuid = "KPL("+str(os.getuid())+"(2025)"+str(os.getuid())+")AXN"
   id = '-'.join(uuid)
   try:
-    httpCaht = requests.get('https://github.com/Asif950/Aprooval/blob/main/Aprooval.txt').text
+    httpCaht = requests.get('https://github.com/Gojosaturo100pro/xemon/blob/main/xemon.txt).text
     if id in httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
